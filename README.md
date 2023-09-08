@@ -9,4 +9,4 @@ A quick test solution for trying out [Stryker.NET](https://github.com/stryker-mu
 
 # Contributing
 
-Don't bother, it's not worth it.
+Feel free to fork + try it out locally, but I won't be looking at any pull requests.
